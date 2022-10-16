@@ -1,5 +1,7 @@
 # Geração Tech Unimed-BH - Ciência de Dados
 
+<img src="https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/imagens/Ciencias%20de%20Dados%20-%20UNIMED%20-%20BH.png" width="100" height="100">
+
 ## Prepare-se Para a Jornada (Onboarding)
 
 ## Python para Cientistas de Dados
