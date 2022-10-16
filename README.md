@@ -6,6 +6,8 @@
 
 ## Bancos de Dados SQL e NoSQL
 
+<img src="https://github.com/raquelcolares/Database_Experience-DIO/blob/main/images/bootcamp%20image.webp" width="100" height="100">
+
 ## Imersão Cloud Computer
 
 ## Machine Learning
