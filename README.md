@@ -99,3 +99,5 @@ Esquema DB - SQL Relacional - NoSQL no Relacional
 -   R para Machine Learning
 -   Entendendo Machine Learning com Amazon SageMaker
 -   Treinamento de Redes Neurais com Transfer Learning
+
+#### Confira meu Github: [jciterceros](https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados)
