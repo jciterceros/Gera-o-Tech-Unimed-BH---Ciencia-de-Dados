@@ -76,10 +76,13 @@ Esquema DB - SQL Relacional - NoSQL no Relacional
 ## Imersão Cloud Computer
 
 <div align="center">
-<img alt="AWS" title="Imersão AWS" width="100px" src="https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/imagens/AWS.png">
-<img alt="AWS Serverless" title="AWS Serverless" width="90px" src="https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/imagens/AWS%20ServerLess.webp">
 <div>
-AWS - Serverless na AWS
+    <img alt="AWS" title="Imersão AWS" width="100px" src="https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/imagens/AWS.png">
+    <img alt="AWS Serverless" title="AWS Serverless" width="90px" src="https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/imagens/AWS%20ServerLess.webp">
+</div>
+<div>
+    AWS
+    AWS - Serverless na AWS
 </div>
 </div>
 
