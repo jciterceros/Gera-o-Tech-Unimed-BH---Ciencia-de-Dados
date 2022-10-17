@@ -21,7 +21,7 @@ Introdução ao Git e ao GitHub
 
 ### Python para Cientistas de Dados
 
-<div align="center">
+<div align="left">
 <img alt="Python" title="Python" width="100px" src="https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/imagens/Python.webp">
 <img alt="Python - Fundamentos ETL" title="Python - Fundamentos ETL" width="100px" src="https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/imagens/Python%20-%20Fundamentos%20de%20ETL.webp">
 </div>
