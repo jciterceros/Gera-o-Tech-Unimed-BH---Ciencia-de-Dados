@@ -105,15 +105,15 @@ Esquema DB - SQL Relacional - NoSQL no Relacional
 
 #### Prepare-se Para a Jornada (Onboarding)
 
--   Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+-   [Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados)
 
 ### Python para Cientistas de Dados
 
--   Desafios Iniciais Py - Unimed-BH
--   Análise de dados com Python e Pandas
--   Desafios Intermediários Py - Unimed-BH
--   Descomplicando a criação de pacotes de processamento de imagens em Python
--   Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil
+-   [Desafios Iniciais Py - Unimed-BH]()
+-   [Análise de dados com Python e Pandas]()
+-   [Desafios Intermediários Py - Unimed-BH]()
+-   [Descomplicando a criação de pacotes de processamento de imagens em Python]()
+-   [Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil]()
 
 ### Bancos de Dados SQL e NoSQL
 
@@ -131,4 +131,4 @@ Esquema DB - SQL Relacional - NoSQL no Relacional
 
 -   Treinamento de Redes Neurais com Transfer Learning
 
-#### Confira meu Github: [jciterceros](https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados)
+#### Confira o restante do meu Github: [jciterceros](https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados)
