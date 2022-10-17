@@ -99,5 +99,36 @@ Esquema DB - SQL Relacional - NoSQL no Relacional
 -   R para Machine Learning
 -   Entendendo Machine Learning com Amazon SageMaker
 -   Treinamento de Redes Neurais com Transfer Learning
+    <br>
+
+# Desafios
+
+#### Prepare-se Para a Jornada (Onboarding)
+
+-   Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+
+### Python para Cientistas de Dados
+
+-   Desafios Iniciais Py - Unimed-BH
+-   Análise de dados com Python e Pandas
+-   Desafios Intermediários Py - Unimed-BH
+-   Descomplicando a criação de pacotes de processamento de imagens em Python
+-   Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil
+
+### Bancos de Dados SQL e NoSQL
+
+-   Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE
+-   Construindo um Esquema Conceitual para Banco De dados
+-   Construindo seu Primeiro Projeto Lógico de Banco de Dados
+-   Construa um Projeto Lógico de Banco de Dados do Zero
+
+### Imersão Cloud Computer
+
+-   Boas práticas com DynamoDB
+-   Explorando Dados Demográficos com Serviços de Big Data na AWS
+
+### Machine Learning
+
+-   Treinamento de Redes Neurais com Transfer Learning
 
 #### Confira meu Github: [jciterceros](https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados)
