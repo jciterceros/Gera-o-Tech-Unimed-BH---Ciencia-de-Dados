@@ -1,9 +1,10 @@
 Desafio de Projeto sobre Git/Github da DIO
+<img with = "100px" src="https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/imagens/BootCamp%20DIO.webp">
 
 # Geração Tech Unimed-BH - Ciência de Dados
 
 <div align="center">
-<img src="https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/imagens/Ciencias%20de%20Dados%20-%20UNIMED%20-%20BH.png" width="150" height="150">
+<img alt="Logo Geracao Tech Unimed BH" title="Logo Unimed BH" width="150px" src="https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/imagens/Ciencias%20de%20Dados%20-%20UNIMED%20-%20BH.png">
 </div>
 
 ### Conteudo Abordado
@@ -20,6 +21,23 @@ Introdução ao Git e ao GitHub
 </div>
 
 ### Python para Cientistas de Dados
+
+-   Ambiente de Desenvolvimento e Primeiros Passos com Python
+-   Conhecendo a Linguagem de Programação Python
+-   Tipos de Operadores com Python
+-   Estruturas Condicionais e de Repetição em Python
+-   Manipulação de strings com Python
+-   Trabalhando com Listas em Python
+-   Conhecendo Tuplas em Python
+-   Explorando Conjuntos em Python
+-   Aprendendo a Utilizar Dicionários em Python
+-   Dominando Funções Python
+-   Fundamentos de ETL (Extract, Transform, Load) com Python
+-   Introdução à Programação Orientada a Objetos (POO) com Python
+-   Aprendendo o Conceito de Herança com Python
+-   Aplicando Encapsulamento em Python
+-   Conhecendo Polimorfismo em Python
+-   Ampliando o conhecimento em POO com Python
 
 ### Bancos de Dados SQL e NoSQL
 
