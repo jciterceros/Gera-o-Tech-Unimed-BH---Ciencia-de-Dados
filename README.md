@@ -8,16 +8,18 @@ Desafio de Projeto sobre Git/Github da DIO
 
 ### Conteudo Abordado
 
-No bootcamp Unimed-BH Ciência de Dados será abordados conceitos em Python, Banco de dados relacional e não relacional, além de uma imersão Cloud Computer e Machine Learning.onde será colocado em pratica essas tecnologias.
+No bootcamp Unimed-BH Ciência de Dados será abordados conceitos em Python, Banco de dados relacional e não relacional, além de uma imersão Cloud Computer e Machine Learning, colocando em pratica o que foi aprendido atraves de varios desafios.
 
-## Prepare-se Para a Jornada (Onboarding)
+### Prepare-se Para a Jornada (Onboarding)
 
-## Python para Cientistas de Dados
+### Python para Cientistas de Dados
 
-## Bancos de Dados SQL e NoSQL
+### Bancos de Dados SQL e NoSQL
 
 <div align="center">
-<img src="https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/imagens/bootcamp%20image.webp" width="100" height="100">
+<img alt="Esquema DB" title="Esquema DB" width="100px" src="https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/imagens/Esquema%20DB.webp">
+<img alt="SQL Relacional" title="SQL Relacional" width="100px" src="https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/imagens/SQL%20DB%20Relacional.webp">
+<img alt="NoSQL no Relacional" title="NoSQL no Relacional" width="100px" src="https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/imagens/DB%20NoSQL%20MongoDB.webp">
 </div>
 
 ## Imersão Cloud Computer
