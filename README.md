@@ -12,6 +12,13 @@ No bootcamp Unimed-BH Ciência de Dados será abordados conceitos em Python, Ban
 
 ### Prepare-se Para a Jornada (Onboarding)
 
+<div align="center">
+<img alt="Github" title="Git/Github" width="100px" src="https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/imagens/Github.webp">
+<div>
+Introdução ao Git e ao GitHub
+</div>
+</div>
+
 ### Python para Cientistas de Dados
 
 ### Bancos de Dados SQL e NoSQL
@@ -20,9 +27,16 @@ No bootcamp Unimed-BH Ciência de Dados será abordados conceitos em Python, Ban
 <img alt="Esquema DB" title="Esquema DB" width="100px" src="https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/imagens/Esquema%20DB.webp">
 <img alt="SQL Relacional" title="SQL Relacional" width="100px" src="https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/imagens/SQL%20DB%20Relacional.webp">
 <img alt="NoSQL no Relacional" title="NoSQL no Relacional" width="100px" src="https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/imagens/DB%20NoSQL%20MongoDB.webp">
+<div>
+Esquema DB - SQL Relacional - NoSQL no Relacional
+</div>
 </div>
 
 ## Imersão Cloud Computer
+
+<div align="center">
+<img alt="AWS" title="Imersão AWS" width="100px" src="https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/imagens/AWS.png">
+</div>
 
 ## Machine Learning
 
