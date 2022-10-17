@@ -117,18 +117,18 @@ Esquema DB - SQL Relacional - NoSQL no Relacional
 
 ### Bancos de Dados SQL e NoSQL
 
--   Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE
--   Construindo um Esquema Conceitual para Banco De dados
--   Construindo seu Primeiro Projeto Lógico de Banco de Dados
--   Construa um Projeto Lógico de Banco de Dados do Zero
+-   [Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE]()
+-   [Construindo um Esquema Conceitual para Banco De dados]()
+-   [Construindo seu Primeiro Projeto Lógico de Banco de Dados]()
+-   [Construa um Projeto Lógico de Banco de Dados do Zero]()
 
 ### Imersão Cloud Computer
 
--   Boas práticas com DynamoDB
--   Explorando Dados Demográficos com Serviços de Big Data na AWS
+-   [Boas práticas com DynamoDB]()
+-   [Explorando Dados Demográficos com Serviços de Big Data na AWS]()
 
 ### Machine Learning
 
--   Treinamento de Redes Neurais com Transfer Learning
+-   [Treinamento de Redes Neurais com Transfer Learning]()
 
 #### Confira o restante do meu Github: [jciterceros](https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados)
