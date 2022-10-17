@@ -10,7 +10,7 @@ Desafio de Projeto sobre Git/Github da DIO
 
 No bootcamp Unimed-BH Ciência de Dados será abordados conceitos em Python, Banco de dados relacional e não relacional, além de uma imersão Cloud Computer e Machine Learning, colocando em pratica o que foi aprendido atraves de varios desafios.
 
-### Prepare-se Para a Jornada (Onboarding)
+## Prepare-se Para a Jornada (Onboarding)
 
 <div align="center">
 <img alt="Github" title="Git/Github" width="100px" src="https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/imagens/Github.webp">
@@ -19,7 +19,7 @@ Introdução ao Git e ao GitHub
 </div>
 </div>
 
-### Python para Cientistas de Dados
+## Python para Cientistas de Dados
 
 <div align="center">
 <img alt="Python" title="Python" width="100px" src="https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/imagens/Python.webp">
@@ -44,7 +44,7 @@ Introdução ao Git e ao GitHub
 -   Ampliando o conhecimento em POO com Python
     <br>
 
-### Bancos de Dados SQL e NoSQL
+## Bancos de Dados SQL e NoSQL
 
 <div align="center">
 <img alt="Esquema DB" title="Esquema DB" width="100px" src="https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/imagens/Esquema%20DB.webp">
