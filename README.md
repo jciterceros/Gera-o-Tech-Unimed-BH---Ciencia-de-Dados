@@ -37,6 +37,7 @@ Introdução ao Git e ao GitHub
 -   Aplicando Encapsulamento em Python
 -   Conhecendo Polimorfismo em Python
 -   Ampliando o conhecimento em POO com Python
+    <br>
 
 ### Bancos de Dados SQL e NoSQL
 
@@ -70,6 +71,17 @@ Esquema DB - SQL Relacional - NoSQL no Relacional
 <img alt="AWS" title="Imersão AWS" width="100px" src="https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/imagens/AWS.png">
 </div>
 
+-   Primeiros Passos com AWS
+-   Boas práticas com DynamoDB
+-   Desenvolvendo Soluções Serverless na AWS
+-   Introdução a Engenharia de Dados na AWS
+-   Imersão ao Ecossistema Cloud Data AWS
+-   Explorando Dados Demográficos com Serviços de Big Data na AWS
+
 ## Machine Learning
 
-Desafios de Ciência de Dados
+-   Linguagens de Programação para Machine Learning
+-   Python para Machine Learning
+-   R para Machine Learning
+-   Entendendo Machine Learning com Amazon SageMaker
+-   Treinamento de Redes Neurais com Transfer Learning
