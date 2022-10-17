@@ -48,6 +48,7 @@ Introdução ao Git e ao GitHub
 Esquema DB - SQL Relacional - NoSQL no Relacional
 </div>
 </div>
+<br>
 
 -   Introdução a Banco de Dados
 -   Sistemas de Gerenciamento de Banco de Dados
