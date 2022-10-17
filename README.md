@@ -48,19 +48,20 @@ Introdução ao Git e ao GitHub
 Esquema DB - SQL Relacional - NoSQL no Relacional
 </div>
 </div>
-- Introdução a Banco de Dados
-- Sistemas de Gerenciamento de Banco de Dados
-- Modelagem de Dados para Banco de Dados
-- Arquitetura de Banco de Dados
-- Fundamentos de Modelagem e Projeto de Banco de Dados
-- Modelo de Entidade Relacionamento com Banco de Dados
-- Modelo Relacionamento de Entidade Aprimorado com Banco de Dados
-- Modelo Relacional e Mapeamento Relacional com Banco de Dados
-- Primeiros Passos com SQL
-- Explorando Queries com SQL
-- Criando Queries com Funções e Cláusulas de Agrupamentos
-- Agrupando Registros e Tabelas com Join Statement
-- Introdução ao MongoDB e Bancos de Dados NoSQL
+
+-   Introdução a Banco de Dados
+-   Sistemas de Gerenciamento de Banco de Dados
+-   Modelagem de Dados para Banco de Dados
+-   Arquitetura de Banco de Dados
+-   Fundamentos de Modelagem e Projeto de Banco de Dados
+-   Modelo de Entidade Relacionamento com Banco de Dados
+-   Modelo Relacionamento de Entidade Aprimorado com Banco de Dados
+-   Modelo Relacional e Mapeamento Relacional com Banco de Dados
+-   Primeiros Passos com SQL
+-   Explorando Queries com SQL
+-   Criando Queries com Funções e Cláusulas de Agrupamentos
+-   Agrupando Registros e Tabelas com Join Statement
+-   Introdução ao MongoDB e Bancos de Dados NoSQL
 
 ## Imersão Cloud Computer
 
