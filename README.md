@@ -1,5 +1,4 @@
 Desafio de Projeto sobre Git/Github da DIO
-<img width = "50px" src="https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/imagens/BootCamp%20DIO.webp">
 
 # Geração Tech Unimed-BH - Ciência de Dados
 
