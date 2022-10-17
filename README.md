@@ -21,7 +21,7 @@ Introdução ao Git e ao GitHub
 
 ### Python para Cientistas de Dados
 
-<div align="left">
+<div align="center">
 <img alt="Python" title="Python" width="100px" src="https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/imagens/Python.webp">
 <img alt="Python - Fundamentos ETL" title="Python - Fundamentos ETL" width="100px" src="https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/imagens/Python%20-%20Fundamentos%20de%20ETL.webp">
 </div>
@@ -74,7 +74,7 @@ Esquema DB - SQL Relacional - NoSQL no Relacional
 
 <div align="center">
 <img alt="AWS" title="Imersão AWS" width="100px" src="https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/imagens/AWS.png">
-<img alt="AWS Serverless" title="AWS Serverless" width="100px" src="https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/imagens/AWS%20ServerLess.webp">
+<img alt="AWS Serverless" title="AWS Serverless" width="90px" src="https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/imagens/AWS%20ServerLess.webp">
 </div>
 
 -   Primeiros Passos com AWS
