@@ -112,7 +112,7 @@ Esquema DB - SQL Relacional - NoSQL no Relacional
 -   [Desafios Iniciais Py - Unimed-BH]()
 -   [Análise de dados com Python e Pandas](https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/Analise%20de%20dados%20com%20Python%20e%20Pandas/Analise%20de%20dados%20com%20Pandas.ipynb)
 -   [Desafios Intermediários Py - Unimed-BH]()
--   [Descomplicando a criação de pacotes de processamento de imagens em Python]()
+-   [Descomplicando a criação de pacotes de processamento de imagens em Python](https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/tree/main/Descomplicando%20a%20cria%C3%A7%C3%A3o%20de%20pacotes%20de%20processamento%20de%20imagens%20em%20Python)
 -   [Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil]()
 
 ### Bancos de Dados SQL e NoSQL
