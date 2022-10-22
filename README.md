@@ -110,7 +110,7 @@ Esquema DB - SQL Relacional - NoSQL no Relacional
 ### Python para Cientistas de Dados
 
 -   [Desafios Iniciais Py - Unimed-BH]()
--   [Análise de dados com Python e Pandas]()
+-   [Análise de dados com Python e Pandas](https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/Analise%20de%20dados%20com%20Python%20e%20Pandas/Analise%20de%20dados%20com%20Pandas.ipynb)
 -   [Desafios Intermediários Py - Unimed-BH]()
 -   [Descomplicando a criação de pacotes de processamento de imagens em Python]()
 -   [Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil]()
