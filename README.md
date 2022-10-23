@@ -110,17 +110,17 @@ Esquema DB - SQL Relacional - NoSQL no Relacional
 ### Python para Cientistas de Dados
 
 -   [Desafios Iniciais Py - Unimed-BH]()
--   [Análise de dados com Python e Pandas](https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/Analise%20de%20dados%20com%20Python%20e%20Pandas/Analise%20de%20dados%20com%20Pandas.ipynb)
+-   [Análise de dados com Python e Pandas](https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/Python%20para%20Cientistas%20de%20Dados/Analise%20de%20dados%20com%20Python%20e%20Pandas/Analise%20de%20dados%20com%20Pandas.ipynb)
 -   [Desafios Intermediários Py - Unimed-BH]()
--   [Descomplicando a criação de pacotes de processamento de imagens em Python](https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/tree/main/Descomplicando%20a%20cria%C3%A7%C3%A3o%20de%20pacotes%20de%20processamento%20de%20imagens%20em%20Python)
--   [Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil]()
+-   [Descomplicando a criação de pacotes de processamento de imagens em Python](https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/tree/main/Python%20para%20Cientistas%20de%20Dados/Descomplicando%20a%20cria%C3%A7%C3%A3o%20de%20pacotes%20de%20processamento%20de%20imagens%20em%20Python)
+-   [Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil](https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/Python%20para%20Cientistas%20de%20Dados/Criando%20modelos%20com%20Python%20e%20Machine%20Learning%20para%20prever%20a%20evolu%C3%A7%C3%A3o%20do%20COVID-19%20no%20Brasil/Analise%20COVID-19.ipynb)
 
 ### Bancos de Dados SQL e NoSQL
 
--   [Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE]()
--   [Construindo um Esquema Conceitual para Banco De dados]()
--   [Construindo seu Primeiro Projeto Lógico de Banco de Dados]()
--   [Construa um Projeto Lógico de Banco de Dados do Zero]()
+-   [Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE](https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/tree/main/Bancos%20de%20Dados%20SQL%20e%20NoSQL/Projeto%201%20-%20Refinando%20um%20Projeto%20Conceitual%20de%20Banco%20de%20Dados%20%E2%80%93%20E-COMMERCE)
+-   [Construindo um Esquema Conceitual para Banco De dados](https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/tree/main/Bancos%20de%20Dados%20SQL%20e%20NoSQL/Projeto%202%20-%20Construindo%20um%20Esquema%20Conceitual%20para%20Banco%20De%20dados)
+-   [Construindo seu Primeiro Projeto Lógico de Banco de Dados](https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/tree/main/Bancos%20de%20Dados%20SQL%20e%20NoSQL/Projeto%203%20-%20Construindo%20seu%20Primeiro%20Projeto%20L%C3%B3gico%20de%20Banco%20de%20Dados)
+-   [Construa um Projeto Lógico de Banco de Dados do Zero](https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/tree/main/Bancos%20de%20Dados%20SQL%20e%20NoSQL/Projeto%204%20-%20Construa%20um%20Projeto%20L%C3%B3gico%20de%20Banco%20de%20Dados%20do%20Zero)
 
 ### Imersão Cloud Computer
 
