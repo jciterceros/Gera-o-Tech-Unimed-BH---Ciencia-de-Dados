@@ -129,6 +129,6 @@ Esquema DB - SQL Relacional - NoSQL no Relacional
 
 ### Machine Learning
 
--   [Treinamento de Redes Neurais com Transfer Learning]()
+-   [Treinamento de Redes Neurais com Transfer Learning](https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/tree/main/Machine%20Learning)
 
 #### Confira o restante do meu Github: [jciterceros](https://github.com/jciterceros/)
