@@ -124,7 +124,7 @@ Esquema DB - SQL Relacional - NoSQL no Relacional
 
 ### Imersão Cloud Computer
 
--   [Boas práticas com DynamoDB]()
+-   [Boas práticas com DynamoDB](https://github.com/jciterceros/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/tree/main/Imers%C3%A3o%20Cloud%20Computer/Boas%20pr%C3%A1ticas%20com%20DynamoDB)
 -   [Explorando Dados Demográficos com Serviços de Big Data na AWS]()
 
 ### Machine Learning
